@@ -1,4 +1,4 @@
-# Striver's-SDE-Sheet
+# Striver's-A2Z-Sheet
 
 <img width="611" alt="image" src="https://github.com/Preeti8021/Strivers-A2Z-Sheet/assets/103981488/ddef6416-901d-4929-a8a5-b6648e8498d8">
 
