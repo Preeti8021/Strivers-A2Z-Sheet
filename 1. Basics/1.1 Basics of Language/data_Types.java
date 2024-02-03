@@ -1,6 +1,7 @@
 import java.util.*;
 public class Solution {
     public static int dataTypes(String type) { // check the type and output the size of the datatype
+        //if else conditional statements
         if(type.equals("Integer")){
             return 4;
         }
