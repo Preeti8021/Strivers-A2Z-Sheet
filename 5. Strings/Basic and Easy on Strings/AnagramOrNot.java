@@ -7,7 +7,7 @@ public class AnagramOrNot {
     public static void main(String[] args){
       System.out.print(isAnagram(rat,car)); //returns false 
     }
-    public boolean isAnagram(String s, String t) {
+    public static boolean isAnagram(String s, String t) {
         char[] ch1 = s.toCharArray();
         char[] ch2 = t.toCharArray();
         Arrays.sort(ch1);
