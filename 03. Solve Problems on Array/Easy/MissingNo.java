@@ -18,9 +18,9 @@ public class MissingNo {
     }
 
     //Time complexity: O(N) sum of n terms - sum of all nums in array
-    public static int missingNumber1(int[] nums){
+    public static int missingNumber2(int[] nums){
       int n = nums.length; 
-      int sumofn = n * (n-1) /2; 
+      int sumofn = n * (n+1) /2; 
       int sumnums =0; 
       for(int i = 0; i<n; i++){
         sumnums = nums[i] + sumnums; 
