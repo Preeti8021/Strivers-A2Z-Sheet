@@ -3,8 +3,8 @@ import java.util.HashMap;
 public class MajorityElement {
     public static void main(String[] args) {
         int[] arr = { 3, 2, 3 };
-        System.out.print(majBF(arr));
-        System.out.print(majBetter(arr));
+        System.out.println(majBF(arr));
+        System.out.println(majBetter(arr));
     }
 
     public static int majBetter(int[] arr) {
