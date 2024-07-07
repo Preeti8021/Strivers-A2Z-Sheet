@@ -1,0 +1,5 @@
+1. Full Binary Tree- each node has 0 or 2 children 
+2. Complete binary tree- All levels are completely filled except the last level & the last level has all nodes as left as possible
+3. Perfect binary tree- All leaf nodes are at the same level
+4. Balanced binary tree- Height of tree is max log(N), and it is efficient instead of having all n nodes in a straight line
+5. Degenerate binary tree- Skewed trees (each node has 1 child node)
