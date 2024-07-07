@@ -1,0 +1,7 @@
+Depth First Search: 
+1. INORDER - LEFT ROOT RIGHT (root is 'in')
+2. PREORDER - ROOT LEFT RIGHT (root is 'pre' or first)
+3. POSTORDER - LEFT RIGHT ROOT (root is 'post' or last)
+
+Breadth First Search: 
+Level Order - write level wise 
