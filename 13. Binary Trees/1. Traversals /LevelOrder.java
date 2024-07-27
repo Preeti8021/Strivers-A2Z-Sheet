@@ -24,8 +24,8 @@ public class TreeNode {
         this.right = right;
     }
 }
- 
-class Solution {
+
+public class LevelOrder {
     public List<List<Integer>> levelOrder(TreeNode root) {
         Queue<TreeNode> q = new LinkedList<TreeNode>(); 
         List<List<Integer>> result = new LinkedList<>(); 
