@@ -3,7 +3,6 @@
 //TC: O(m*n) SC: O(m)  
 //{m - length of goal, n - length of s} 
 
-
 public class IsStringRotation {
     public boolean rotateString(String s, String goal) {
         if(s.equals(goal)){
